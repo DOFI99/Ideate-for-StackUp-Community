@@ -18,7 +18,7 @@
 
 <h3>To bring this idea to life, the following steps can be taken:</h3>
 
-1.Conduct user research to gather feedback and preferences on the current platform experience.
+1. Conduct user research to gather feedback and preferences on the current platform experience.
 2. Develop a personalized campaign dashboard with customizable filters and a user-friendly interface.
 3. Implement a feedback and suggestion mechanism, allowing users to provide input on the platform.
 4. Design and develop a gamification system that rewards users for their engagement and achievements.
